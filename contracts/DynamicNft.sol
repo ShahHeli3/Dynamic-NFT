@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 
+//contract address on polygon testnet: 0x843fFadF1af882CE8F3D496B01E34fB8482b78a5
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
